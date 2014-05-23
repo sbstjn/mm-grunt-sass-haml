@@ -1,1 +1,2 @@
-# Delicious HAML & SASS. Watched by Grunt & JSHint
+# Middleman setup
+Delicious HAML & SASS. Watched by Grunt & JSHint …
